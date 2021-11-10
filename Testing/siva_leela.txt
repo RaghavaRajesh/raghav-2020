@@ -5,3 +5,5 @@ This is second commit.
 This is my third commit.
 
 This is my Fourth commit.
+
+Testing for conflicts.
